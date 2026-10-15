@@ -1,0 +1,9 @@
+{
+  "name": "release-readiness-demo",
+  "version": "1.0.0",
+  "description": "Small Node.js project used to demonstrate release-readiness checks.",
+  "main": "src/status.js",
+  "scripts": {
+    "start": "node src/status.js"
+  }
+}
